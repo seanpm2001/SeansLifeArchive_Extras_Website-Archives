@@ -1,0 +1,119 @@
+recs_results({
+  "Data": [
+    {
+      "country_code": "us",
+      "customer_segment_code": "04",
+      "language_code": "en",
+      "segment_code": "bsd",
+      "product_id": "xctopt5820us",
+      "product_variant": "precision-5820-workstation",
+      "model_id": "precision-5820-workstation",
+      "model_name": "Precision 5820 Tower Workstation",
+      "model_url": "https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/precision-5820-tower-workstation/spd/precision-5820-workstation/xctopt5820us",
+      "manufacturer_name": "Dell",
+      "manufacturer_part_num": "precision-5820-workstation",
+      "product_url": "https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/precision-5820-tower-workstation/spd/precision-5820-workstation/xctopt5820us",
+      "add_to_cart_url": "https://www.dell.com/en-us/work/shop/serviceselection/XCTOPT5820US",
+      "remove_from_cart_url": "",
+      "upc_eam": "",
+      "product_name": "Precision 5820 Tower Workstation",
+      "short_description": "<b>Fully customizable:</b> Featuring high performance in a new innovative, versatile compact design.",
+      "long_description": "<b>Fully customizable:</b> Featuring high performance in a new innovative, versatile compact design.",
+      "msrp": 1862.96,
+      "msrp_formatted": "$1,862.96",
+      "list_price": 1862.96,
+      "list_price_formatted": "$1,862.96",
+      "starting_at_price": 1299.0,
+      "starting_at_price_formatted": "$1,299.00",
+      "sale_price": 1299.0,
+      "sale_price_formatted": "$1,299.00",
+      "in_stock": true,
+      "currency": "$",
+      "ratings": 4.0820189274447953,
+      "num_reviews": 317,
+      "num_reviews_1": 34,
+      "num_reviews_2": 15,
+      "num_reviews_3": 25,
+      "num_reviews_4": 60,
+      "num_reviews_5": 183,
+      "pictures": [
+        {
+          "image_url": "https://i.dell.com/is/image/DellContent/content/dam/global-asset-library/Products/Workstations/precision_fixed/t5820/prt5820_lsy_10015lf_bk.psd?$S7-165x119$",
+          "isdefault": true,
+          "image_type": "large"
+        }
+      ],
+      "categories": [
+        {
+          "category_id": "desktops-n-workstations",
+          "category_name": "desktops-n-workstations",
+          "level": 0,
+          "is_leaf": true,
+          "is_bizCat": false
+        },
+        {
+          "category_id": "precision-desktops",
+          "category_name": "precision-desktops",
+          "level": 1,
+          "is_leaf": true,
+          "is_bizCat": false
+        }
+      ],
+      "techSpecs": [
+        {
+          "tech_spec_code": "proc",
+          "tech_spec_title": "Processor",
+          "tech_spec_desc": "Intel Xeon Processor W-2223"
+        },
+        {
+          "tech_spec_code": "os",
+          "tech_spec_title": "Operating System",
+          "tech_spec_desc": "Windows 10 Pro for Workstation (up to 4 Cores) Multi - English"
+        },
+        {
+          "tech_spec_code": "video",
+          "tech_spec_title": "Graphics Card",
+          "tech_spec_desc": "Radeon Pro WX 2100, 2GB, DP, 2 mDP (5820T)"
+        },
+        {
+          "tech_spec_code": "memry",
+          "tech_spec_title": "Memory<a class=\"technote microcontent\" rel=\"technotes:1-gb\"><sup><small>i</small></sup></a>",
+          "tech_spec_desc": "8GB 1x8GB DDR4 2933MHz RDIMM ECC Memory"
+        },
+        {
+          "tech_spec_code": "hdrv",
+          "tech_spec_title": "Hard Drive",
+          "tech_spec_desc": "2.5\" 500GB 7200rpm SATA Hard Drive"
+        },
+        {
+          "tech_spec_code": "prts",
+          "tech_spec_title": "Ports",
+          "tech_spec_desc": "<strong>Front</strong><br>2 USB 3.1 Type A<br>2 USB 3.1 Type C<br>1 Universal Headphone Jack<br><br><br><strong>Internal</strong><br>1 USB 2.0<br>1 USB 2.0 header, requires 3rd party splitter cable to support USB 2.0 Type A ports<br>8 SATA @6Gb/s plus 1 SATA for optical<br><br><strong>Rear</strong><br>6 USB 3.1 Type A<br>1 Serial<br>1 RJ45 Network<br>2 PS2<br>1 Audio Line out<br>1 Audio Line in/Microphone"
+        },
+        {
+          "tech_spec_code": "wirlss",
+          "tech_spec_title": "Wireless",
+          "tech_spec_desc": "No Wireless LAN"
+        }
+      ],
+      "dell_product_type": "System",
+      "ancestor": "",
+      "is_configurable": false,
+      "recommendable": true,
+      "csb_add_to_cart_url": "https://www.dell.com/en-us/work/shop/serviceselection/XCTOPT5820US",
+      "csb_product_detail_url": "https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/precision-5820-tower-workstation/spd/precision-5820-workstation/xctopt5820us",
+      "end_of_life": false,
+      "subclass": "",
+      "is_deal": false,
+      "order_code": null,
+      "eei_small_image_url": "",
+      "eei_small_image_alt_text": "",
+      "eei_large_image_url": "",
+      "eei_large_image_alt_text": "",
+      "eei_sheet_link_url": "",
+      "eei_sheet_link_text": ""
+    }
+  ],
+  "Count": 1,
+  "LapTime": 2
+})
