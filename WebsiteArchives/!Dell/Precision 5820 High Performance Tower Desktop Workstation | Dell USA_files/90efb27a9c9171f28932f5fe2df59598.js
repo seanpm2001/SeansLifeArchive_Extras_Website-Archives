@@ -1,0 +1,2 @@
+Bootstrapper.bindImmediate(function(){Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.registerDataDefinition(function(){Bootstrapper.data.define({extract:function(){return Dell.Metrics.sc.devicetype},transform:function(val){return val?val:""},load:"page",trigger:Bootstrapper.data.bottomOfBodyTrigger,dataDefName:"Breakpoint -  Phone",collection:"Shop Layer Metrics",source:"Manage",priv:"false"},{id:"60128"})},
+60128)},-1,-1)},-1,-1);

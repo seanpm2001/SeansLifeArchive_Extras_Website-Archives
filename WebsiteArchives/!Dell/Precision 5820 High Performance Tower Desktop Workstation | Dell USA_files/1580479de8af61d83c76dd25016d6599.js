@@ -1,0 +1,2 @@
+Marketing.bindDependencyDOMParsed(function(){var Bootstrapper=window["Marketing"];var ensightenOptions=Marketing.ensightenOptions;try{var firePixel=function(){if(Marketing.UDO.promoid!=="100"){window._svq=window._svq||[];window._svq.push(["_setAccount","5496_04572"]);window._svq.push(["_trackPageView"]);Marketing.insertScript("//track.securedvisit.com/js/sv.js")}};firePixel();if(Marketing.scDataObj.cms=="olr")window.addEventListener("udoReady",function(e){firePixel()})}catch(e){dell_marketing_util.debug(e)}},
+3449244,[3496429],671192,[610323]);
