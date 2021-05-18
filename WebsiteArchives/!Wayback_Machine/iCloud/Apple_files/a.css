@@ -1,0 +1,78 @@
+html, body { background: #ffffff; }
+#main { overflow: visible; }
+#main #content { padding-bottom: 25px; }
+#headlines { display: none; }
+
+
+/* Billboards */
+#billboard,
+#billboard .billboard { z-index: 15; }
+#billboard,
+#billboard .billboard,
+#billboard .billboard a.hero { height: 528px; }
+#billboard { width: 980px; position: relative; margin-bottom: 11px; }
+#billboard .billboard { width: 974px; position: absolute; left: 0; }
+#billboard .billboard .learn,
+#billboard .billboard .more { text-align: left; }
+#billboard .billboard .more { background-image: url(https://web.archive.org/web/20110609204034im_/http://images.apple.com/global/elements/arrows/morearrow_med_08c.gif); *background-position: 100% .4em; }
+
+
+/* Keynote Callout */
+#billboard .callout { width: 215px; _width: 230px; text-align: left; position: absolute; z-index: 16; padding: 0; background: none; }
+#billboard .callout .thumb { display: block; float: left; margin: -1.4em 15px 0 0; padding: 3px; position: relative; z-index: 16; background: #fff; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; -khtml-border-radius: 3px; -webkit-box-shadow: rgba(0,0,0,0.45) 0 1px 3px; -moz-box-shadow: rgba(0,0,0,0.45) 0 1px 3px; box-shadow: rgba(0,0,0,0.45) 0 1px 3px; border: 1px solid; border-color: #e5e5e5 #dbdbdb #d2d2d2; }
+#billboard .callout .thumb:nth-child(1n) { border: none; } /* reset border for smart browsers */
+#billboard .callout .thumb .play { width: 28px; height: 27px; margin: -13px 0 0 -12px; display: block; background: url(https://web.archive.org/web/20110609204034im_/http://images.apple.com/v/home/a/images/icon_play.png) no-repeat; position: absolute; z-index: 16; left: 50%; top: 50%; opacity: .75; -webkit-transition: opacity .15s ease-out; -moz-transition: opacity .15s ease-out; transition: opacity .15s ease-out; _behavior: url(/web/20110609204034im_/http://images.apple.com/global/scripts/lib/iepngfix.htc); }
+#billboard .callout:hover .thumb .play { opacity: 1; }
+#billboard .callout .thumb img { display: block; margin: 0; }
+#billboard .callout .learn,
+#billboard .callout .more { font-size: 16px; line-height: 18px; }
+
+
+/* Promos */
+.promos { width: 980px; height: 205px; margin: 0; padding: 0; position: relative; z-index: 18; }
+.promos ul { width: 100%; margin: 0; }
+.promos ul li,
+.promos ul li a { height: 199px; width: 478px; }
+.promos ul li { margin: 0; display: block; float: left; }
+.promos ul li.first { margin-right: 8px; }
+.promos ul li.first:nth-child(1n) { margin-right: 12px; }
+
+
+/* Fancy Billboards */
+#billboard .fancy { height: 522px; *width: 972px; padding: 3px; text-align: left; background: #fff; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; -khtml-border-radius: 5px; -webkit-box-shadow: rgba(0,0,0,0.45) 0 1px 3px; -moz-box-shadow: rgba(0,0,0,0.45) 0 1px 3px; box-shadow: rgba(0,0,0,0.45) 0 1px 3px; border: 1px solid; border-color: #e5e5e5 #dbdbdb #d2d2d2; }
+#billboard .fancy:nth-child(1n) { border: none; } /* reset border for smart browsers */
+#billboard .fancy a.hero { height: 578px; *overflow: hidden; margin: 0; background: #fafafa; background:-webkit-gradient(linear, left top, left bottom, color-stop(0.5, #fafafa), to(#f2f2f2)); background: -moz-linear-gradient(top, #fafafa 50%, #f2f2f2); zoom: 1; }
+#billboard .fancy a.hero:after { content:'.'; display:block; height:0; clear:both; visibility:hidden; }
+#billboard .fancy a.hero:hover { background: #fdfdfd; background: -webkit-gradient(linear, left top, left bottom, from(#fdfdfd), to(#fafafa)); background: -moz-linear-gradient(top, #fdfdfd, #fafafa); }
+
+/* iCloud */
+#billboard #icloud a.hero { height: 456px; padding: 66px 70px 0 76px; }
+
+#billboard #icloud h1 { padding-top: 55px; }
+#billboard #icloud h1 img { display: inline; }
+#billboard #icloud img.hero { margin: 0; }
+
+.keynote #billboard #icloud h1 { padding-top: 15px; }
+.keynote #billboard #icloud .callout.keynote { left: 83px; top: 367px; }
+
+/*
+     FILE ARCHIVED ON 20:40:34 Jun 09, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:14:01 Apr 20, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  CDXLines.iter: 14.95 (3)
+  exclusion.robots: 0.208
+  PetaboxLoader3.datanode: 56.797 (4)
+  esindex: 0.015
+  load_resource: 72.078
+  RedisCDXSource: 0.671
+  captures_list: 71.887
+  PetaboxLoader3.resolve: 28.814
+  LoadShardBlock: 52.81 (3)
+  exclusion.robots.policy: 0.193
+*/
